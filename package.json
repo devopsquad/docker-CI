@@ -8,7 +8,7 @@
   "license": "You'd have to be mad to use this in production :-D",
   "dependencies": {
     "express": "4.14.0",
-    "pug": "2.0.0",
+     "jade": "1.11.0",
     "mocha": "3.0.0",
     "supertest": "2.0.0"
   }
